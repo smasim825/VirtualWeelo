@@ -1,0 +1,4 @@
+__pycache__/
+*.task
+.DS_Store
+*.pyc
