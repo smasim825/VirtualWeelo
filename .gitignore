@@ -2,3 +2,5 @@ __pycache__/
 *.task
 .DS_Store
 *.pyc
+*.mov
+*.mp4
